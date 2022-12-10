@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
-url: "https://git_blog_test2.github.io"
+url: "https://git_blog_test2.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
